@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -58,6 +59,22 @@ h2 {
 /* Colors */
 
 /* QUESTION 1 */
+
+.red-threevert{
+  height: 33.3%;
+  background-color: red;
+
+}
+
+.white-threevert{
+  height: 33.3%;
+  background-color: #fff
+}
+
+.light-blue-threevert{
+  height: 33.3%;
+  background-color: #51ADDA
+}
 
 .orange {
   background-color: orange;
@@ -93,33 +110,30 @@ h2 {
 
 /* BEGIN QUESTION 2 */
 
+.thailand-flag{
+  height: 16.66%
+
+}
+
 .thailand-red {
-  /* TODO */
+  height: 16.66%;
+  background-color:#B5002D;
 }
 
 .thailand-white {
-  /* TODO */
+  height: 16.66%;
+  background-color:white;
 }
 
 .thailand-blue {
-  /* TODO */
+  height: 16.66%;
+  background-color: #2E2A4C;
 }
 
 /* END QUESTION 2 */
 
 /* BEGIN QUESTION 3 */
-
-.romania-blue {
-  background-color: #002c84;
-}
-
-.romania-yellow {
-  background-color: #ffcf00;
-}
-
-.romania-red {
-  background-color: #e10017;
-}
+ 
 
 /* END QUESTION 3 */
 
