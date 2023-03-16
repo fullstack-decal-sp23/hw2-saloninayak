@@ -15,6 +15,9 @@ h2 {
   font-size: medium;
   font-weight: 200;
 }
+.label:hover {
+  color:palevioletred;
+}
 /* END SETUP */
 
 /* Classes that you might find useful */
@@ -159,16 +162,27 @@ h2 {
 
 /* QUESTION 4 */
 .mexico-green {
+  width: 33.33%;
   background-color: #006341;
 }
 
+
 .mexico-img {
-  /* TODO */
+  background:url("eagle.png") center no-repeat white;
+  background-size:65%;
+  max-width:33.33%;
+  max-height:33.33%;
+  height:33.33%;
+  width:33.33%;
+  align-self:center;
 }
 
+
 .mexico-red {
+  width:33.33%;
   background-color: #ce1126;
 }
+
 
 /* QUESTION 6 */
 .margin-container {
@@ -183,15 +197,17 @@ h2 {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  /* TODO */
+  
 }
 
 .flag2 {
   background-color: blue;
-  /* TODO */
+  margin-left: 10px;
 }
 /* For padding practice */
 .padding-container {
+  padding-top:-60px;
+  padding-bottom:-60px;
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
