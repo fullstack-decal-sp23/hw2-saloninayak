@@ -135,21 +135,21 @@ h2 {
 /* BEGIN QUESTION 3 */
 .romania-blue {
   
-  height: 33.33%;
+  width: 33.33%;
   background-color: #002c84;
  
 
 }
 
 .romania-yellow {
-  height:33.33%;
+  width:33.33%;
   background-color: #ffcf00;
   
  
 }
 
 .romania-red {
-  height: 33.33%;
+  width: 33.33%;
   background-color: #e10017;
 
 }
